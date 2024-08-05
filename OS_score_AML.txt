@@ -1,0 +1,34 @@
+Age 18-39	- 0.44 
+Age 40-59	0
+Age 60+	+ 0.20 
+Male	+ 0.06 
+Female	0
+Caucasian race	+ 0.1
+Other than Caucasian race	0
+KPS 90 or 100	0
+KPS < 90	+ 0.11
+HCT-CI 0	- 0.20 
+HCT-CI 1-2	0
+HCTCI 3+	+ 0.14 
+De novo AML	- 0.13 
+Secondary AML (MDS/MPN)	+ 0.03 
+White count > 10 x 109/L	0
+White count ≥ 10 x 109/L	+ 0.24 
+Adapted ELN favourable risk	- 0.58 
+Adapted ELN intermediate risk	0
+Adapted ELN high risk	+ 0.33 
+Time to CR < 4 weeks	- 0.12
+Time to CR 4-8 weeks	0
+Time to CR > 8 weeks	+0.02
+Pre transplant MRD neg	- 0.45 
+Pre transplant MRD pos	0
+Haplo /Cord donor	+  0.22 /+ 0.21
+Matched sibling donor	- 0.03
+Matched unrelated donor	0
+MA conditioning	- 0.15 
+RIC/NMAC	0
+PBSC graft	- 0.06
+Bone marrow	0
+Low Risk	≤ - 0.48
+Intermediate Risk	- 0.481 to + 0.22
+High Risk	> + 0.22
