@@ -1,0 +1,35 @@
+Variables	Disease free survival score
+Age 18-39	- 0.24
+Age 40-59	0
+Age 60+	+ 0.14
+Male	+ 0.1
+Female	0
+Caucasian race	0
+Other than Caucasian race	0
+KPS 90 or 100	0
+KPS < 90	+ 0.07
+HCT-CI 0	0
+HCT-CI 1-2	0
+HCTCI 3+	+ 0.13
+De novo AML	0
+Secondary AML (MDS/MPN)	0
+White count > 10 x 109/L	0
+White count ≥ 10 x 109/L	0
+Adapted ELN favourable risk	- 0.18
+Adapted ELN intermediate risk	0
+Adapted ELN high risk	+ 0.29
+Time to CR < 4 weeks	- 0.1
+Time to CR 4-8 weeks	0
+Time to CR > 8 weeks	0
+Pre transplant MRD neg	- 0.46
+Pre transplant MRD pos	0
+Haplo /Cord donor	+ 0.13/ + 0.21
+Matched sibling donor	+ 0.13
+Matched unrelated donor	0
+MA conditioning	- 0.23
+RIC/NMAC	0
+PBSC graft	0
+Bone marrow	0
+Low Risk	≤ - 0.28
+Intermediate Risk	- 0.281 to 0.028
+High Risk	> + 0.028
